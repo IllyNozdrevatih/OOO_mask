@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5eacccf78cd53e40582aa57d"
+  },
+  "photo_url": "https://1vss76nhhzx246bcn1bq1rv1cf7-wpengine.netdna-ssl.com/wp-content/uploads/sites/11/2016/12/Too-young-to-die-1.jpg",
+  "name": "иван",
+  "age": "21",
+  "area": "Московская",
+  "position": "тренер",
+  "about": "Я крутой работник"
+}
+]

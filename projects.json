@@ -1,0 +1,12 @@
+[{
+    "_id": {
+      "$oid": "5eac9d42fc6d3323c841dadc"
+    },
+    "photo_url": "https://1vss76nhhzx246bcn1bq1rv1cf7-wpengine.netdna-ssl.com/wp-content/uploads/sites/11/2016/12/Too-young-to-die-1.jpg",
+    "supervisor": "Иван",
+    "title": "Большой проект",
+    "part_money": 24,
+    "level": "Большой",
+    "about": "Очень большой проект"
+  }
+  ]

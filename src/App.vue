@@ -5,7 +5,7 @@
         router-link(:to="{name: 'Projects'}") 
           | Проекты
         router-link(:to="{name: 'Users'}") 
-          | Пользователи
+          | Участники
         router-view
     .footer
       .copyright

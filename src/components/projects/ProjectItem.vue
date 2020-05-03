@@ -5,6 +5,7 @@
       h4.supervisor Руководитель: {{projectItem.main}} 
       h4.supervisor Наставники: {{projectItem.supervisor}} 
       h4.title Название: {{projectItem.title}} 
+      h4.level Уровень проекта: {{projectItem.level}} 
       h4.part_money Шкала заполнения сбора средств на проект: {{projectItem.part_money}} %
       div(class="scale")
         div(class="scale-loader" :style="{width: projectItem.part_money + '%'}")

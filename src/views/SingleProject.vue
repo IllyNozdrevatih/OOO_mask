@@ -17,13 +17,6 @@ import { mapActions, mapGetters } from 'vuex'
 
 export default {
   name: 'ProjectItem',
-//   props: ['project', 'index'],
-  data() {
-    return {
-    //   projectItem: this.$props.project,
-    //   currentIndex: this.$props.index,
-    }
-  },
   methods: {
       ...mapActions(['fetchSingleProject']),
   },
